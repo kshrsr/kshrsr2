@@ -1,0 +1,21 @@
+.myname {
+  color:blueviolet
+}
+.header-logo {
+  background: darkturquoise;
+  padding: 10px 20px;
+  margin:0 100px;
+  text-align:center;
+  letter-spacing: 50px;
+  border:10px solid #fff;
+}
+body {
+  background-color:blanchedalmond;
+}
+footer {
+
+  float:right;
+  margin-top:800px;
+  font-weight:nomal;
+
+}
